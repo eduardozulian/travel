@@ -42,17 +42,21 @@ Isso precisa virar um site / app.
 - [ ] Garrafa d'água (meio chato de carregar, mas potencialmente interessante para uma viagem mais longa)
 - [ ] Mosquetão / clips (para prender coisas na mochila, inclusive garrafas)
 - [ ] _Money belt_ (pra quem gosta)
+- [ ] Sacola retornável
 
 ## Documentos e demais paradas
 - [ ] Passaporte
 - [ ] Cópia do passaporte e outros documentos importantes
 - [ ] Passagens / roteiros impressos
+- [ ] Dinheiro local (se a viagem for fora do país)
 
 ## Eletrônicos
 - [ ] Computador + carregador
 - [ ] Cabos para telefone
+- [ ] Carregador tomada USB
 - [ ] iPod
 - [ ] Kindle (ou livro)
+- [ ] Power bank
 - [ ] Modem USB (se a viagem for dentro do país)
 - [ ] Máquina fotográfica
 - [ ] Mini lente fish-eye (para o celular)
