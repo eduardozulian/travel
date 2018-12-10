@@ -7,6 +7,7 @@ Isso precisa virar um site / app.
 * [The Basetrip](https://www.thebasetrip.com/): informações sobre o seu destino. Muito bom.
 * [Coworker](https://www.coworker.com/): dicas sobre locais de onde trabalhar remotamente
 * [Numbeo](https://www.numbeo.com/cost-of-living/comparison.jsp) e [Expatistan](https://www.expatistan.com/cost-of-living): comparação de custo de vida e gastos diários entre seu país atual e o seu destino
+* [VisaList](https://visalist.io/): lista de países e os vistos necessários de acordo com sua cidadania
 
 ## Começando
 - [ ] Mochila 70 litros / mala de rodinha
